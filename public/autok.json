@@ -1,0 +1,117 @@
+{
+  "cars": [
+    {
+      "id": "2",
+      "marka": "Volkswagen",
+      "tipus": "Golf",
+      "teljesitmeny": 76200,
+      "muszakiVizsga": "2026-11-20",
+      "biztositasVane": true,
+      "uzemanyag": "Benzin",
+      "extrak": [
+        "Parkolóradar"
+      ]
+    },
+    {
+      "id": "3",
+      "marka": "BMW",
+      "tipus": "320d",
+      "teljesitmeny": 115300,
+      "muszakiVizsga": "2027-06-08",
+      "biztositasVane": false,
+      "uzemanyag": "Dízel",
+      "extrak": [
+        "Bőrülés",
+        "Navigáció"
+      ]
+    },
+    {
+      "id": "4",
+      "marka": "Škoda",
+      "tipus": "Octavia",
+      "teljesitmeny": 58900,
+      "muszakiVizsga": "2028-01-12",
+      "biztositasVane": true,
+      "uzemanyag": "Benzin",
+      "extrak": [
+        "Tempomat",
+        "Ülésfűtés"
+      ]
+    },
+    {
+      "id": "5",
+      "marka": "Tesla",
+      "tipus": "Model 3",
+      "teljesitmeny": 24100,
+      "muszakiVizsga": "2027-09-30",
+      "biztositasVane": true,
+      "uzemanyag": "Elektromos",
+      "extrak": [
+        "Navigáció",
+        "Kamera"
+      ]
+    },
+    {
+      "id": "6",
+      "marka": "Ford",
+      "tipus": "Focus",
+      "teljesitmeny": 93600,
+      "muszakiVizsga": "2026-12-05",
+      "biztositasVane": false,
+      "uzemanyag": "Dízel",
+      "extrak": [
+        "Klíma"
+      ]
+    },
+    {
+      "id": "7",
+      "marka": "Hyundai",
+      "tipus": "i30",
+      "teljesitmeny": 31700,
+      "muszakiVizsga": "2027-04-21",
+      "biztositasVane": true,
+      "uzemanyag": "Benzin",
+      "extrak": [
+        "Tolatókamera"
+      ]
+    },
+    {
+      "id": "8",
+      "marka": "Kia",
+      "tipus": "Niro",
+      "teljesitmeny": 18200,
+      "muszakiVizsga": "2028-05-17",
+      "biztositasVane": true,
+      "uzemanyag": "Hibrid",
+      "extrak": [
+        "Ülésfűtés",
+        "Tempomat"
+      ]
+    },
+    {
+      "id": "9",
+      "marka": "Mercedes-Benz",
+      "tipus": "A 200",
+      "teljesitmeny": 67400,
+      "muszakiVizsga": "2027-02-11",
+      "biztositasVane": false,
+      "uzemanyag": "Benzin",
+      "extrak": [
+        "Bőrülés"
+      ]
+    },
+    {
+      "id": "10",
+      "marka": "Renault",
+      "tipus": "Zoe",
+      "teljesitmeny": 45300,
+      "muszakiVizsga": "2027-10-04",
+      "biztositasVane": true,
+      "uzemanyag": "Elektromos",
+      "extrak": [
+        "Navigáció"
+      ]
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
